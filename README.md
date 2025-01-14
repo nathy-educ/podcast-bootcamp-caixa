@@ -8,7 +8,7 @@ Projeto PODCAST Gerado por I.A.s
 Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de IA. 
 
 
-✨ Nome do Ppodcast
+✨ Nome do PODCAST
 
 O Chapéu Designador - Escolhendo seu caminho no mundo do UI Design!
 
