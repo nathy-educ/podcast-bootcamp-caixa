@@ -3,10 +3,14 @@ Desafio de Projeto Podcast: Bootcamp CAIXA - IA Generativa com Microsoft Copilot
 
 Projeto PODCAST Gerado por I.A.s
 
-
 ℹ️ NOTE: Este é o repositório desenvolvido durante o curso Bootcamp CAIXA - IA Generativa com Microsoft Copilot
 
 Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de IA. 
+
+
+✨ Nome do Ppodcast
+
+O Chapéu Designador - Escolhendo seu caminho no mundo do UI Design!
 
 
 💻 Tecnologias utilizadas no projeto
